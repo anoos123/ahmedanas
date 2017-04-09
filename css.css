@@ -1,10 +1,4 @@
-/*
 
-App Starter Template
-
-http://www.templatemo.com/tm-492-app-starter
-
-*/
 
 body {
 		background: #1c1c1c;
@@ -275,7 +269,7 @@ a:hover, a:active, a:focus {
 -----------------------------------------*/
 
 #home {
-    background: #535bd4 url('home-bg.png') no-repeat;
+    background: #535bd4 url('home-bg.jpg') no-repeat;
     background-size: cover;
     background-position: center center;
     color: #ffffff;
